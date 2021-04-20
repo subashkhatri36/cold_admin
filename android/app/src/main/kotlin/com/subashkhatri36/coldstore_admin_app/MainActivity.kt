@@ -1,0 +1,6 @@
+package com.subashkhatri36.coldstore_admin_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
